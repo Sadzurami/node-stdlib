@@ -11,9 +11,7 @@
 	"main": "_main.js",
 	"files": [
 		"*.js",
-		"*.ts",
-		"*.map",
-		"/lib"
+		"lib/**/*.js"
 	],
 	"dependencies": {
 		"psl": "^1.9.0"

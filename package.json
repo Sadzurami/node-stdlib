@@ -9,9 +9,12 @@
 		"url": "https://github.com/DoctorMcKay/node-stdlib"
 	},
 	"main": "_main.js",
+	"types": "_main.d.ts",
 	"files": [
 		"*.js",
-		"lib/**/*.js"
+		"*.d.ts",
+		"lib/**/*.js",
+		"lib/**/*.d.ts"
 	],
 	"dependencies": {
 		"psl": "^1.9.0"

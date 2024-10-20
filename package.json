@@ -13,8 +13,10 @@
 	"files": [
 		"*.js",
 		"*.d.ts",
+		"*.map",
 		"lib/**/*.js",
-		"lib/**/*.d.ts"
+		"lib/**/*.d.ts",
+		"lib/**/*.map"
 	],
 	"dependencies": {
 		"psl": "^1.9.0"
